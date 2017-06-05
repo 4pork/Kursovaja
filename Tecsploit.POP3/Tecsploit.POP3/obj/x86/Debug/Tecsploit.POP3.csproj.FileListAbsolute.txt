@@ -1,0 +1,8 @@
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\bin\Debug\Tecsploit.POP3.exe
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\bin\Debug\Tecsploit.POP3.pdb
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\Tecsploit.POP3.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\GMailEmailReader.EmailClient.resources
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\Tecsploit.POP3.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\Tecsploit.POP3.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\Tecsploit.POP3.exe
+C:\Users\Даниил\Desktop\Tecsploit.POP3\Tecsploit.POP3\obj\x86\Debug\Tecsploit.POP3.pdb
